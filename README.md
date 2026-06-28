@@ -52,20 +52,7 @@ Building it raised a question I couldn't put down: when AI suggests a feature an
 
 ---
 
-### 📈 GitHub Activity
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Venkatanarayanamallineni&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Venkatanarayanamallineni&hide_border=true" width="48%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatanarayanamallineni&layout=compact&hide_border=true" width="48%" />
-
-</div>
 
 ---
 
