@@ -1,7 +1,6 @@
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=28&duration=3000&pause=800&color=2E86AB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Venkat+%F0%9F%91%8B;I+build+with+AI%2C+then+ask+why+it+worked;MS+in+MIS+%40+Iowa+State+University;Currently+researching+AI-mediated+cognition" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=26&duration=3000&pause=900&color=2E86AB&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Venkat;Data+%2F+BI+%2F+Business+Analyst;MS+in+MIS+%40+Iowa+State+University;Open+to+opportunities" alt="Typing SVG" />
 
 </div>
 
@@ -15,11 +14,11 @@
 
 ---
 
-### 🚀 What I'm building right now
+### 👋 About me
 
-**[Cynergy](https://cynergy-isu.vercel.app)** — a live AI-powered sustainability platform for ISU students. Built from zero coding background using generative AI as a technical co-pilot. Deployed in production at 99.9% uptime, validated at the AI@ISU competition with 85% of surveyed users willing to act on the data shown.
+Data / Business / BI Analyst, MS in Management Information Systems at Iowa State University's Ivy College of Business. I turn messy, real-world data into decisions — most recently a 4M-row liquor sales dataset into a COVID growth story, and a from-scratch app into a tool students actually use.
 
-Building it raised a question I couldn't put down: when AI suggests a feature and you ship it, whose decision was it really? That question is now the center of my master's research on **AI-mediated cognition** — [I wrote about it here →](your-linkedin-article-link)
+**Authorized to work in the US on F-1 OPT — no sponsorship needed for 3 years.**
 
 ---
 
@@ -34,6 +33,7 @@ Building it raised a question I couldn't put down: when AI suggests a feature an
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile%2FScrum-0052CC?style=flat-square&logo=jira&logoColor=white)
 
@@ -45,7 +45,8 @@ Building it raised a question I couldn't put down: when AI suggests a feature an
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🌱 **[Cynergy](https://cynergy-isu.vercel.app)** | Live AI sustainability platform — 4 shipped features, real users | React, Firebase, GenAI, GIS |
+| 🌪️ **[Far From Sober](https://github.com/Venkatanarayanamallineni/far-from-sober)** | Ames, IA liquor sales analysis — 3.5x sales growth Pre- to Post-COVID, gameday spending patterns tied to ISU football, verified against raw totals and cross-checked in SQL | Tableau, Power BI, DAX, SQL |
+| 🌱 **[Cynergy](https://cynergy-isu.vercel.app)** | Live AI sustainability platform for ISU students — 4 shipped features, 99.9% uptime, 85% of surveyed users willing to act on the data shown | React, Firebase, GenAI, GIS |
 | ♻️ **[EcoTrack](https://github.com/Venkatanarayanamallineni/EcoTrack)** | Peer-to-peer donation marketplace inside Cynergy | React, Firebase, Leaflet.js |
 | 🎬 **[Movie Analytics Platform](https://github.com/Venkatanarayanamallineni/MAP-Movie-Analytics-Platform)** | NLP classifier (82% accuracy) on 50K+ reviews, ETL on 1M+ records | Python, SQL, Power BI, Azure |
 | 💧 **[Iowa Water Quality Analytics](https://github.com/Venkatanarayanamallineni/Iowa-Water-Quality-Decision-Analytics)** | Composite policy scoring across 100+ Iowa communities | Python, Tableau |
@@ -53,23 +54,17 @@ Building it raised a question I couldn't put down: when AI suggests a feature an
 
 ---
 
+### 🚀 What I'm building right now
 
+**[Cynergy](https://cynergy-isu.vercel.app)** — a live AI-powered sustainability platform for ISU students, built from zero coding background using generative AI as a technical co-pilot. Deployed in production, validated at the AI@ISU competition.
 
----
-
-### 🧠 The Question I'm Chasing
-
-I built Cynergy and discovered, after the fact, that the AI had quietly imported behavioral science research into my product decisions — without me knowing the names of the techniques it was using. That gap between what builders think they decided and what AI actually shaped is what I research and write about now.
-
-[Read my take on it →](your-linkedin-article-link)
+Building it raised a question I couldn't put down: when AI suggests a feature and you ship it, whose decision was it really? That question is now the subject of a side research thread on AI-mediated cognition — [more on that here →]([your-linkedin-article-link](https://www.linkedin.com/pulse/ghost-code-what-vibe-coders-dont-know-why-matters-mallineni-f3xic)) — separate from my day-to-day analyst work.
 
 ---
 
 <div align="center">
 
 📫 **Let's talk** — [LinkedIn](https://www.linkedin.com/in/venkat-n-m/) · [Email](mailto:venkata92212@gmail.com) · [Live Project](https://cynergy-isu.vercel.app)
-
-*Authorized to work in the US on F-1 OPT — no sponsorship needed for 3 years.*
 
 <img src="https://komarev.com/ghpvc/?username=Venkatanarayanamallineni&style=flat-square&color=blue" alt="Profile views" />
 
